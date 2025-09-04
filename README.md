@@ -20,7 +20,7 @@ Includes **IP-based rate limiting** (5 requests per minute per IP) to prevent ab
 Clone the repository and install dependencies:
 
 ```bash
-git clone 
+git clone https://github.com/chetanchaudhari07/quote-api
 cd quote-api
 npm install
 
